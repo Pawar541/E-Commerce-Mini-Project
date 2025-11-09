@@ -1,0 +1,4 @@
+[
+  {"name":"Sample Product A","slug":"sample-product-a","category":"General","weight":0.5,"price":19.99,"stock":100,"images":[],"description":"A sample product A."},
+  {"name":"Sample Product B","slug":"sample-product-b","category":"General","weight":1,"price":29.99,"stock":50,"images":[],"description":"A sample product B."}
+]
